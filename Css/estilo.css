@@ -1,0 +1,36 @@
+.contenedor {
+    background-color:#12121a;
+    overflow: hidden;
+     padding: 2em;
+  }
+  .color{
+    color: gainsboro;
+
+  }.color2 {background-color:#847D7C;
+    overflow: hidden;
+     padding: 1em;
+    
+  }
+ #hero{background-image: url("../imagenes/fondo-de-pantalla-paisaje.jpg") ;
+    background-size:cover ;
+    padding-top: 90px;
+    min-height: 600px;
+    color: black;
+
+ }
+ .content-center{
+     max-width: 800px;
+     margin: 0 auto 60px auto;
+     text-align:center ;
+ }
+ .content-center2{
+     max-width: 800px ;
+     margin: 0 auto 60px auto;
+     text-align: center;
+ }
+ .contenedor2{
+     padding-top: 40px;
+     padding-left: 30px;
+     padding-right: 30px;
+ }
+ 
